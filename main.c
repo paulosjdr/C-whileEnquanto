@@ -14,6 +14,5 @@ int main()
     //contador++; //contador+=1; //contador = contador +1
 
    }
-
    return 0;
 }
